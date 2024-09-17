@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interactive-people-points/static/css/main.ce7cc357.css",
+    "main.js": "/interactive-people-points/static/js/main.df3f9627.js",
+    "static/js/453.cce48b33.chunk.js": "/interactive-people-points/static/js/453.cce48b33.chunk.js",
+    "static/media/Niharika.png": "/interactive-people-points/static/media/Niharika.33c1feb1d51879493bbb.png",
+    "static/media/Samir.png": "/interactive-people-points/static/media/Samir.17139330aba66c321050.png",
+    "static/media/Muralidharan.png": "/interactive-people-points/static/media/Muralidharan.b892433c8f5cffcf7884.png",
+    "static/media/prasad.png": "/interactive-people-points/static/media/prasad.009f06380e77a3e15be2.png",
+    "static/media/ravi.png": "/interactive-people-points/static/media/ravi.dd5c11658869c34977b0.png",
+    "static/media/linkedin-logo.jpg": "/interactive-people-points/static/media/linkedin-logo.1affb16d9de05d94b8d3.jpg",
+    "index.html": "/interactive-people-points/index.html",
+    "main.ce7cc357.css.map": "/interactive-people-points/static/css/main.ce7cc357.css.map",
+    "main.df3f9627.js.map": "/interactive-people-points/static/js/main.df3f9627.js.map",
+    "453.cce48b33.chunk.js.map": "/interactive-people-points/static/js/453.cce48b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7cc357.css",
+    "static/js/main.df3f9627.js"
+  ]
+}
