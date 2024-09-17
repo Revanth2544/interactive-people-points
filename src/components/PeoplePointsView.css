@@ -1,0 +1,73 @@
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.map-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.person-dot.active {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    z-index: 2;
+}
+
+.person-dot.inactive {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.person-dot.active:hover {
+    transform: scale(1.2);
+}
+
+.person-name {
+    color: #ff0000;
+    margin-left: 15px;
+}
+
+.person-dot.active:hover .person-name {
+    display: inline-block;
+}
+
+.profile-panel {
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-details img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.placeholder-text {
+    color: #888;
+    text-align: center;
+}
+
+.social-logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    vertical-align: middle;
+    font-size: xx-small;
+    justify-content: center;
+}
