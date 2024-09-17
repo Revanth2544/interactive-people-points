@@ -202,7 +202,7 @@ const peopleData = [
     { name: 'nina', description: 'Inactive member', position: { top: '40%', left: '75%' }, active: false },
     { name: 'nick', description: 'Inactive member', position: { top: '20%', left: '60%' }, active: false },
     { name: 'bob', description: 'Inactive member', position: { top: '55%', left: '15%' }, active: false },
-    { name: 'mia', description: 'Inactive member', position: { top: '35%', left: '85%' }, active: false }
+    { name: 'mia', description: 'Inactive member', position: { top: '35%', left: '79%' }, active: false }
 ];
 
 const PeoplePointsView = () => {
